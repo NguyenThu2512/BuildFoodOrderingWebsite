@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.js": "javascriptreact"
+    },
+    "tailwindCSS.includeLanguages": {
+        "javascript": "javascript",
+        "html": "HTML"
+      },
+      "editor.quickSuggestions": {
+        "strings": true
+    }
+}
